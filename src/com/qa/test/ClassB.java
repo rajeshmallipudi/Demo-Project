@@ -30,7 +30,8 @@ public class ClassB extends ClassA{
 		
 		Iterator it=asd.iterator();
 		while (it.hasNext()) {
-			System.out.println(it.next());	
+			System.out.println(it.next());
+			//commitment
 		}
 	}
 
